@@ -1,0 +1,118 @@
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c7595451ad7201da02a95a1"),
+	"entrance" : {
+		"x" : -1090.7794189453125,
+		"y" : -926.04638671875,
+		"z" : 3.1429243087768555
+	},
+	"exit" : {
+		"x" : 346.5525,
+		"y" : -1012.735,
+		"z" : -99.1962
+	},
+	"index" : NumberInt(0),
+	"level" : NumberInt(1),
+	"locked" : NumberInt(0),
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(1),
+	"rentable" : false,
+	"rentPrice" : NumberInt(5),
+	"safe" : NumberInt(0),
+	"taxes" : 0,
+	"upgradeLevel" : NumberInt(1)
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c8582ad945023385ca7d45a"),
+	"entrance" : {
+		"x" : -1031.5228271484375,
+		"y" : -902.6959228515625,
+		"z" : 3.7196364402770996
+	},
+	"exit" : {
+		"x" : -17.2094,
+		"y" : -588.4208,
+		"z" : 90.1148
+	},
+	"index" : NumberInt(1),
+	"level" : NumberInt(1),
+	"locked" : NumberInt(0),
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(1),
+	"rentable" : false,
+	"rentPrice" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"upgradeLevel" : NumberInt(2)
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c8d153d73116d1fd0f6be53"),
+	"entrance" : {
+		"x" : -1793.3448486328125,
+		"y" : -663.8809814453125,
+		"z" : 10.60478401184082
+	},
+	"exit" : {
+		"x" : -30.6847,
+		"y" : -595.4903,
+		"z" : 80.0309
+	},
+	"index" : NumberInt(2),
+	"level" : NumberInt(3),
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(500000),
+	"rentable" : false,
+	"rentPrice" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"upgradeLevel" : NumberInt(1)
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c8d3adae80d7d550014849e"),
+	"entrance" : {
+		"x" : -1800.0487060546875,
+		"y" : -667.2864379882812,
+		"z" : 10.60466480255127
+	},
+	"exit" : {
+		"x" : -1289.8276,
+		"y" : 448.9533,
+		"z" : 97.9025
+	},
+	"index" : NumberInt(3),
+	"level" : NumberInt(1),
+	"owned" : true,
+	"owner" : "WeirdNewbie",
+	"price" : NumberInt(1),
+	"rentable" : false,
+	"rentPrice" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"upgradeLevel" : NumberInt(1)
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c8fc404e593df21d0e49e95"),
+	"entrance" : {
+		"x" : -1667.715087890625,
+		"y" : -441.19842529296875,
+		"z" : 40.356719970703125
+	},
+	"exit" : {
+		"x" : 346.5525,
+		"y" : -1012.735,
+		"z" : -99.1962
+	},
+	"index" : NumberInt(4),
+	"level" : NumberInt(1),
+	"owned" : true,
+	"owner" : "Hurdock",
+	"price" : NumberInt(1),
+	"rentable" : false,
+	"rentPrice" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"upgradeLevel" : NumberInt(1)
+},

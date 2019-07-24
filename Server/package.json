@@ -1,0 +1,21 @@
+{
+  "name": "lm-rp",
+  "version": "1.0.0",
+  "description": "Project V - Server for GTA 5",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "escape-html": "^1.0.3",
+    "randomcolor": "^0.5.4",
+    "trivia-api": "^1.0.1",
+    "youtube-search": "^1.1.4"
+  },
+  "devDependencies": {
+    "mongoose": "^5.4.3",
+    "require-all": "^3.0.0",
+    "simple-encryptor": "^2.0.0"
+  },
+  "scripts": {},
+  "author": "State Valentin (Hurdock)",
+  "license": "ISC"
+}

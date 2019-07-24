@@ -1,0 +1,302 @@
+{
+	"_id" : ObjectId("5c75af1de100f2516a9071af"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(72),
+	"buyPoint" : {
+		"x" : -338.872,
+		"y" : -136.304,
+		"z" : 39.01
+	},
+	"extraPoints" : [
+		""
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : false,
+	"index" : NumberInt(1),
+	"level" : NumberInt(3),
+	"message" : "Tune & Repair your vehicle.",
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(50000),
+	"products" : NumberInt(4999),
+	"robPoint" : null,
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(400),
+	"taxes" : NumberInt(0),
+	"title" : "Los Santos Customs",
+	"type" : NumberInt(2)
+},
+{
+	"_id" : ObjectId("5c76edd85d97db4acce1c569"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(52),
+	"buyPoint" : {
+		"x" : -1223.1715,
+		"y" : -906.9209,
+		"z" : 12.3264
+	},
+	"extraPoints" : [
+		""
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : true,
+	"index" : NumberInt(0),
+	"level" : NumberInt(3),
+	"message" : "For your daily needs.",
+	"owned" : true,
+	"owner" : "WeirdNewbie",
+	"price" : NumberInt(50000),
+	"products" : NumberInt(4974),
+	"robPoint" : {
+		"x" : -1221.0339,
+		"y" : -912.2342,
+		"z" : 12.3264
+	},
+	"robTime" : NumberInt(0),
+	"safe" : 5827.5,
+	"taxes" : NumberInt(0),
+	"title" : "24/7 General Store",
+	"type" : NumberInt(1)
+},
+{
+	"_id" : ObjectId("5c7720c4c2656a4b28dbfb12"),
+	"blipColor" : NumberInt(25),
+	"blipIcon" : NumberInt(500),
+	"buyPoint" : {
+		"x" : 314.256,
+		"y" : -278.611,
+		"z" : 54.171
+	},
+	"extraPoints" : [
+		""
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : true,
+	"index" : NumberInt(2),
+	"level" : NumberInt(4),
+	"message" : "Invest in your future.",
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(4),
+	"products" : NumberInt(1),
+	"robPoint" : {
+		"x" : 310.387,
+		"y" : -283.044,
+		"z" : 54.175
+	},
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"taxes" : NumberInt(0),
+	"title" : "Fleeca Bank",
+	"type" : NumberInt(3)
+},
+{
+	"_id" : ObjectId("5c7867c8d23bc62b2c090660"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(567),
+	"buyPoint" : {
+		"x" : 21.208,
+		"y" : -1106.494,
+		"z" : 29.797
+	},
+	"extraPoints" : [
+		""
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : true,
+	"index" : NumberInt(3),
+	"level" : NumberInt(4),
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(80000),
+	"products" : NumberInt(4994),
+	"robPoint" : {
+		"x" : 13.918,
+		"y" : -1106.262,
+		"z" : 29.797
+	},
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(1770),
+	"taxes" : NumberInt(0),
+	"title" : "Ammu-Nation - Gun Store",
+	"type" : NumberInt(4)
+},
+{
+	"_id" : ObjectId("5c793c01c9ee6b5450ec5be0"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(52),
+	"buyPoint" : {
+		"x" : -707.704,
+		"y" : -914.567,
+		"z" : 19.216
+	},
+	"extraPoints" : [
+		""
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : true,
+	"index" : NumberInt(4),
+	"level" : NumberInt(3),
+	"message" : "For your daily needs.",
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(50000),
+	"products" : NumberInt(4999),
+	"robPoint" : {
+		"x" : -708.721,
+		"y" : -905.082,
+		"z" : 19.216
+	},
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(160),
+	"taxes" : NumberInt(0),
+	"title" : "24/7 General Store",
+	"type" : NumberInt(1)
+},
+{
+	"_id" : ObjectId("5c799bf3b8ed2928d04a85e3"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(590),
+	"buyPoint" : {
+		"x" : -598.709,
+		"y" : -929.919,
+		"z" : 23.864
+	},
+	"extraPoints" : [
+		""
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : true,
+	"index" : NumberInt(5),
+	"level" : NumberInt(3),
+	"message" : "Place your ads today!",
+	"owned" : true,
+	"owner" : "WeirdNewbie",
+	"price" : NumberInt(50000),
+	"products" : NumberInt(4999),
+	"robPoint" : {
+		"x" : -591.224,
+		"y" : -912.027,
+		"z" : 23.877
+	},
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"taxes" : NumberInt(0),
+	"title" : "Weazel News - Ads Agency",
+	"type" : NumberInt(5)
+},
+{
+	"_id" : ObjectId("5c79a88ab8ed2928d04a85e4"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(73),
+	"buyPoint" : {
+		"x" : -163.029,
+		"y" : -303.306,
+		"z" : 39.733
+	},
+	"extraPoints" : [
+		""
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : true,
+	"index" : NumberInt(6),
+	"level" : NumberInt(3),
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(50000),
+	"products" : NumberInt(5047),
+	"robPoint" : {
+		"x" : -170.542,
+		"y" : -296.486,
+		"z" : 39.733
+	},
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"taxes" : NumberInt(0),
+	"title" : "Clothes Store",
+	"type" : NumberInt(6)
+},
+{
+	"_id" : ObjectId("5c7bfe720f5c915130a08a6b"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(93),
+	"buyPoint" : {
+		"x" : -1378.744,
+		"y" : -628.021,
+		"z" : 30.82
+	},
+	"extraPoints" : [
+		{
+			"message" : "Become DJ - /playmusic",
+			"x" : -1382.247,
+			"y" : -614.477,
+			"z" : 31.498,
+			"command" : "playmusic"
+		}
+	],
+	"haveBuyPoint" : true,
+	"haveEntrance" : true,
+	"haveExtra" : true,
+	"haveRobPoint" : true,
+	"index" : NumberInt(7),
+	"level" : NumberInt(3),
+	"message" : "Quality time with us.",
+	"owned" : false,
+	"owner" : "No-One",
+	"price" : NumberInt(50000),
+	"products" : NumberInt(5000),
+	"robPoint" : {
+		"x" : -1405.582,
+		"y" : -604.677,
+		"z" : 30.32
+	},
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(0),
+	"taxes" : NumberInt(0),
+	"title" : "Bahama Mamas West",
+	"type" : NumberInt(7)
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c84119e8e6c4f3f94ff4480"),
+	"blipColor" : NumberInt(4),
+	"blipIcon" : NumberInt(71),
+	"buyPoint" : {
+		"x" : 133.8572,
+		"y" : -1709.2246,
+		"z" : 29.2916,
+		"angle" : 3.6369
+	},
+	"extraPoints" : null,
+	"haveBuyPoint" : true,
+	"haveEntrance" : false,
+	"haveExtra" : false,
+	"haveRobPoint" : false,
+	"index" : NumberInt(8),
+	"level" : NumberInt(3),
+	"message" : "Get yourself a new look",
+	"owned" : true,
+	"owner" : "Hurdock",
+	"price" : NumberInt(500000),
+	"products" : NumberInt(9994),
+	"robPoint" : null,
+	"robTime" : NumberInt(0),
+	"safe" : NumberInt(600),
+	"taxes" : NumberInt(0),
+	"title" : "Barber Shop",
+	"type" : NumberInt(8)
+},

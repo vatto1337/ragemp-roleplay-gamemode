@@ -1,0 +1,10 @@
+{
+	"maxplayers" : 20,
+	"name" : "SE-MP | Roleplay", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 300.0,
+	"announce" : false,
+	"port": 22005,
+	"voice-chat" : true,
+	"allow-cef-debugging": true
+}

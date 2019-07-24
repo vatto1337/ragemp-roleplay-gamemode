@@ -1,0 +1,90 @@
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c78647f4e9c740280384860"),
+	"position" : {
+		"x" : 243.61798095703125,
+		"y" : -45.155792236328125,
+		"z" : 69.8965835571289
+	},
+	"title" : "Ammu-Nation - Gun Store"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c793a2706aba24e48e93440"),
+	"position" : {
+		"x" : 314.5519714355469,
+		"y" : -278.0788269042969,
+		"z" : 54.164695739746094
+	},
+	"title" : "Fleeca Bank"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c7c488d941f1426ac63ec41"),
+	"position" : {
+		"x" : -1388.4959716796875,
+		"y" : -586.5914306640625,
+		"z" : 30.218217849731445
+	},
+	"title" : "Bahama Mamas West - Music Club"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c7d8761dee4471be42f6aa4"),
+	"position" : {
+		"x" : 129.45745849609375,
+		"y" : -204.1509246826172,
+		"z" : 54.507442474365234
+	},
+	"title" : "Clothes Store"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c81d92521efba40bc834a52"),
+	"position" : {
+		"x" : -1037.0701904296875,
+		"y" : -2737.511474609375,
+		"z" : 20.169275283813477
+	},
+	"title" : "Airport LS - Arrivals (Spawn)"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c81d95f21efba40bc834a53"),
+	"position" : {
+		"x" : -828.55712890625,
+		"y" : -1086.6138916015625,
+		"z" : 11.132280349731445
+	},
+	"title" : "Department of Motor vehicles"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c8c17bbbdd2ea286016d906"),
+	"position" : {
+		"x" : -61.69441604614258,
+		"y" : -1093.1424560546875,
+		"z" : 26.48370361328125
+	},
+	"title" : "Premium Deluxe Motorsport"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c8c27486b7ada3fa0facebb"),
+	"position" : {
+		"x" : -543.37841796875,
+		"y" : -207.06539916992188,
+		"z" : 37.64982986450195
+	},
+	"title" : "City Hall of Los Santos"
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c90528dbf3327311408f528"),
+	"position" : {
+		"x" : 1251.7369384765625,
+		"y" : -348.0780029296875,
+		"z" : 69.08220672607422
+	},
+	"title" : " test"
+},

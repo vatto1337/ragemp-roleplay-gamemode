@@ -1,0 +1,100 @@
+//animatii de mancare
+player.playAniimation("amb@code_human_wander_eating_donut_fat@male@idle_a", "idle_b", 1, 49); 
+player.playAniimation("amb@code_human_wander_eating_donut@female@idle_a", "idle_b", 1, 49);
+
+// animatie 'tine mainile pe sold'
+
+player.playAniimation("amb@code_human_police_investigate@base", "base", 1, 49); 
+
+// animatie 'se joaca cu mainile' => poate fi folosit la joburi ca sa para ca faci ceva cu mainile ?
+player.playAniimation("switch@michael@gaming_w_jmy", "001518_02_mics3_11_gaming_w_jmy_idle_mic", 1, 49);
+
+// mers de dama si mainile in sold
+player.playAniimation("switch@michael@prostitute", "base_hooker", 1, 49);
+
+// tinut de maini in stil mafiot
+
+player.playAniimation("switch@michael@rejected_entry", "001396_01_mics3_6_rejected_entry_idle_bouncer", 1, 49);
+
+// aplecare si tine mainile de parca are ceva in ele 
+player.playAniimation("switch@michael@tv_w_kids", "001520_02_mics3_14_tv_w_kids_idle_mic", 1, 49);
+
+// tine mana sus foarte feminin si frantuzeste
+
+player.playAniimation("amb@lo_res_idles@", "world_human_lean_female_hand_up_lo_res_base", 1, 49);
+
+// animatii de fumat
+
+player.playAniimation("amb@incar@male@smoking@idle_a", "idle_a", 1, 49);
+player.playAniimation("amb@incar@male@smoking@idle_a", "idle_b", 1, 49);
+
+player.playAniimation("random@robbery", "f_cower_01", 1, 49); //crying
+player.playAniimation("random@robbery", "f_distressed_loop", 1, 49); // shaken
+player.playAniimation("random@shop_robbery", "robbery_action_b", 1, 49); // rob -- tine pistolu sus si exclameaza
+player.playAnimation("random@shop_robbery", "robbery_action_p", 1, 2); // se pune in genuchi cu mainie la cap!!
+player.playAnimation("random@shop_robbery", "robbery_action_p", 1, 18); // pune mainile in cap si nu se poate misca.
+
+// Job santier
+
+WORLD_HUMAN_CLIPBOARD // sef de santier care tine cv in mana
+WORLD_HUMAN_CLIPBOARD_FACILITY
+WORLD_HUMAN_CONST_DRILL // da cu burghiu mare in pamant 
+
+
+// Drinking
+
+WORLD_HUMAN_DRINKING
+WORLD_HUMAN_DRINKING_FACILITY
+
+// se drogheaza , tot fumat dar mult mai ok
+WORLD_HUMAN_DRUG_DEALER
+
+// fumeaza ok
+WORLD_HUMAN_SMOKING
+
+// animatie cand tine telefonu intins de parca filmeaza
+
+WORLD_HUMAN_MOBILE_FILM_SHOCKING
+
+// animatie care sapa in pamantde parca ar planta sapa cu lopatica
+
+WORLD_HUMAN_GARDENER_PLANT
+
+// animatie buna de job, dai cu ciocanu in perete!!
+
+WORLD_HUMAN_HAMMERING 
+
+// animatie de maid care spala geamurile 
+WORLD_HUMAN_MAID_CLEAN
+
+// job papparazi
+WORLD_HUMAN_PAPARAZZI
+
+// WORLD_HUMAN_STAND_FISHING => animatie de pescuit
+
+// animatie cand sta pe telefon
+
+WORLD_HUMAN_STAND_MOBILE
+
+// animatie mecanic ? ?
+
+WORLD_HUMAN_VEHICLE_MECHANIC ==> se apleaca sub o masina 
+
+// job sudor
+
+WORLD_HUMAN_WELDING
+
+// face skinu boar sa dea cu ratu in pamant ??
+WORLD_BOAR_GRAZING
+
+// animatie interesanta cand scrie in carnetel, bun pentru un job de inspector ??
+
+CODE_HUMAN_MEDIC_TIME_OF_DEATH
+
+// job cersetor ??
+
+      player.playScenario('WORLD_HUMAN_BUM_FREEWAY');
+
+// job muzician ? ai ori chitara ori tobe
+
+WORLD_HUMAN_MUSICIAN

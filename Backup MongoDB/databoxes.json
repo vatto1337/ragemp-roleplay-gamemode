@@ -1,0 +1,447 @@
+{
+	"_id" : ObjectId("5c767adfe100f2516a908e0e"),
+	"data" : {
+		"safe" : 5011.5,
+		"productsPrice" : NumberInt(2),
+		"taxes" : {
+			"house" : NumberInt(25),
+			"business" : NumberInt(10),
+			"bankFee" : NumberInt(10)
+		}
+	}
+},
+{
+	"_id" : ObjectId("5c782945d23bc62b2c09065f"),
+	"data" : {
+		"messages" : [
+			"~o~You need help with commands ? Type ~w~/help~o~ to see a list of commands available for you.",
+			"~o~Random Messages 2."
+		]
+	}
+},
+{
+	"_id" : ObjectId("5c83f09f1188f12fc0026677"),
+	"data" : {
+		"player_actions" : [
+			"John Doe was invited in Los Santos Police Department",
+			"John Doe Jr. was kicked out from Los Santos Police Department",
+			"Mafia Vagos won the war against Grove. (54-45)",
+			"Jonh Blue sold his business to Jeffrey.",
+			"Hans Dickens sold his house to Masoko Jaspokso",
+			""
+		],
+		"server_stats" : [
+			"500",
+			"500",
+			"23",
+			"50",
+			"500"
+		]
+	}
+},
+{
+	"_id" : ObjectId("5c86adc5c7356922bcf6979c"),
+	"data" : {
+		"vehicles" : [
+			{
+				"price" : NumberInt(5000),
+				"stock" : NumberInt(34),
+				"model" : "schwarzer",
+				"goldPrice" : NumberInt(500),
+				"goldOnly" : false
+			},
+			{
+				"price" : NumberInt(1000),
+				"stock" : NumberInt(98),
+				"model" : "xls",
+				"goldOnly" : true,
+				"goldPrice" : "10000"
+			},
+			{
+				"price" : NumberInt(1000),
+				"stock" : NumberInt(99),
+				"model" : "faggio",
+				"goldOnly" : false,
+				"goldPrice" : NumberInt(0)
+			},
+			{
+				"price" : "1",
+				"stock" : NumberInt(97),
+				"model" : "zentorno",
+				"goldOnly" : false,
+				"goldPrice" : NumberInt(0)
+			},
+			{
+				"price" : NumberInt(1000),
+				"stock" : NumberInt(98),
+				"model" : "pfister811",
+				"goldOnly" : false,
+				"goldPrice" : NumberInt(0)
+			},
+			{
+				"price" : NumberInt(1000),
+				"stock" : NumberInt(99),
+				"model" : "zr3803",
+				"goldOnly" : false,
+				"goldPrice" : NumberInt(0)
+			},
+			{
+				"price" : "5",
+				"stock" : NumberInt(98),
+				"model" : "huntley",
+				"goldOnly" : false,
+				"goldPrice" : NumberInt(0)
+			}
+		],
+		"status" : true
+	}
+},
+{
+	"__v" : NumberInt(0),
+	"_id" : ObjectId("5c911a45c8e5041aa06cf9cc"),
+	"data" : {
+		"factions" : [
+			{
+				"title" : "Police Department",
+				"type" : NumberInt(0),
+				"blip" : NumberInt(60),
+				"blipColor" : NumberInt(38),
+				"blipPosition" : [
+					428.755,
+					-978.137,
+					30.71,
+					221.151
+				],
+				"hasEntrance" : false,
+				"entrancePos" : null,
+				"exitPos" : null,
+				"pickups" : [
+					{
+						"text" : "Clear a criminal record~n~Usage: /clear",
+						"dimension" : 0,
+						"hasMarker" : true,
+						"pos" : [
+							452.094,
+							-973.701,
+							30.69
+						]
+					},
+					{
+						"text" : "Heal yourself~n~-Faction Only -~n~Usage: /healme",
+						"dimension" : 0,
+						"hasMarker" : false,
+						"pos" : [
+							436.196,
+							-986.676,
+							30.69
+						]
+					},
+					{
+						"text" : "Surrender for half time in jail~n~Usage: /surrender",
+						"dimension" : 0,
+						"hasMarker" : true,
+						"pos" : [
+							440.969,
+							-981.169,
+							30.69
+						]
+					},
+					{
+						"text" : "Equip weapons for pursuing criminals~n~Usage: /equip",
+						"dimension" : 0,
+						"hasMarker" : true,
+						"pos" : [
+							452.145,
+							-980.082,
+							30.69
+						]
+					},
+					{
+						"text" : "Equip your faction clothes~n~Usage: /equip",
+						"dimension" : 0,
+						"hasMarker" : true,
+						"pos" : [
+							450.463,
+							-992.49,
+							30.69
+						]
+					}
+				],
+				"vehicles" : [
+					[
+						"police",
+						445.957,
+						-1025.269,
+						28.389,
+						0.8128054738044739,
+						-1.0089162588119507,
+						6.64697265625
+					],
+					[
+						"police2",
+						442.481,
+						-1026.015,
+						28.465,
+						0.3576430082321167,
+						-1.1198102235794067,
+						5.881805419921875
+					],
+					[
+						"police3",
+						438.516,
+						-1026.198,
+						28.535,
+						0.5122545957565308,
+						-1.061328649520874,
+						6.196929931640625
+					],
+					[
+						"police",
+						434.988,
+						-1027.144,
+						28.608,
+						0.0776214599609375,
+						-1.0522724390029907,
+						5.799041748046875
+					],
+					[
+						"police2",
+						430.994,
+						-1027.133,
+						28.678,
+						0.16105681657791138,
+						-1.0221925973892212,
+						5.258056640625
+					],
+					[
+						"police3",
+						427.458,
+						-1026.959,
+						28.732,
+						0.4003473222255707,
+						-1.1362178325653076,
+						4.4088134765625
+					],
+					[
+						"policeb",
+						450.731,
+						-1026.305,
+						28.042,
+						-0.28220686316490173,
+						7.316760063171387,
+						2.441253662109375
+					],
+					[
+						"policeb",
+						453.07,
+						-1025.947,
+						27.999,
+						0.34049513936042786,
+						6.918642997741699,
+						0.7603759765625
+					],
+					[
+						"policeb",
+						455.755,
+						-1025.587,
+						27.941,
+						-0.2574537396430969,
+						8.262459754943848,
+						2.67510986328125
+					],
+					[
+						"policeb",
+						457.832,
+						-1025.661,
+						27.907,
+						-0.00388837861828506,
+						6.721367835998535,
+						4.399200439453125
+					],
+					[
+						"policet",
+						452.564,
+						-996.961,
+						25.749,
+						-0.8240741491317749,
+						-0.07694819569587708,
+						358.49468994140625
+					],
+					[
+						"policet",
+						447.57,
+						-996.844,
+						25.752,
+						-0.7488746047019958,
+						-0.030477061867713928,
+						357.1090087890625
+					],
+					[
+						"polmav",
+						449.041,
+						-981.687,
+						44.081,
+						-0.14178624749183655,
+						0.011532945558428764,
+						357.5953063964844
+					]
+				],
+				"vehiclesColors" : [
+					NumberInt(0),
+					NumberInt(0)
+				],
+				"leader" : "Hurdock",
+				"motd" : null,
+				"spawn" : [
+					437.77,
+					-991.224,
+					30.69,
+					221.151
+				],
+				"dimension" : NumberInt(0)
+			},
+			{
+				"title" : "Medicine Department",
+				"type" : NumberInt(1),
+				"blip" : NumberInt(80),
+				"blipColor" : NumberInt(4),
+				"blipPosition" : [
+					302.26,
+					-1439.855,
+					29.798
+				],
+				"hasEntrance" : true,
+				"exitPos" : {
+					"x" : 275.439,
+					"y" : -1361.346,
+					"z" : 24.538
+				},
+				"entrancePos" : {
+					"x" : 390.92,
+					"y" : -1432.484,
+					"z" : 29.434
+				},
+				"pickups" : [
+					{
+						"text" : "Equip your faction clothes~n~Usage: /equip",
+						"dimension" : 255,
+						"hasMarker" : true,
+						"pos" : [
+							249.403,
+							-1358.867,
+							24.538
+						]
+					},
+					{
+						"text" : "Heal yourself~n~- Faction Only - ~n~Usage: /healme",
+						"dimension" : 255,
+						"hasMarker" : false,
+						"pos" : [
+							269.737,
+							-1354.504,
+							24.538
+						]
+					},
+					{
+						"text" : "Heal yourself~n~Cost: 150$ ~n~Usage: /healme",
+						"dimension" : 0,
+						"hasMarker" : true,
+						"pos" : [
+							294.473,
+							-1448.138,
+							29.967
+						]
+					},
+					{
+						"text" : "Usage: /enter",
+						"dimension" : 0,
+						"hasMarker" : false,
+						"pos" : [
+							390.92,
+							-1432.484,
+							29.434
+						]
+					},
+					{
+						"text" : "Usage: /exit",
+						"dimension" : 255,
+						"hasMarker" : false,
+						"pos" : [
+							275.709,
+							-1361.574,
+							24.538
+						]
+					}
+				],
+				"vehicles" : [
+					[
+						"ambulance",
+						404.349,
+						-1423.3,
+						29.22,
+						0.23592060804367065,
+						0.23971077799797058,
+						230.03890991210938
+					],
+					[
+						"ambulance",
+						401.946,
+						-1426.47,
+						29.22,
+						0.23034925758838654,
+						0.25131431221961975,
+						230.0211944580078
+					],
+					[
+						"ambulance",
+						398.924,
+						-1429.182,
+						29.223,
+						0.12847745418548584,
+						0.13514363765716553,
+						229.4821319580078
+					],
+					[
+						"ambulance",
+						415.684,
+						-1432.008,
+						29.166,
+						-0.963783323764801,
+						-0.5638871788978577,
+						30.79473876953125
+					],
+					[
+						"ambulance",
+						412.541,
+						-1434.249,
+						29.162,
+						-1.0444798469543457,
+						-0.5858434438705444,
+						29.2784423828125
+					],
+					[
+						"ambulance",
+						408.686,
+						-1436.462,
+						29.16,
+						-0.9650241136550903,
+						-0.5304478406906128,
+						30.715850830078125
+					]
+				],
+				"vehiclesColors" : [
+					NumberInt(27),
+					NumberInt(27)
+				],
+				"leader" : "No-One",
+				"motd" : null,
+				"spawn" : [
+					263.851,
+					-1360.627,
+					24.538
+				],
+				"dimension" : NumberInt(255)
+			}
+		]
+	}
+},

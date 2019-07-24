@@ -1,0 +1,11 @@
+require("./client/core/browsers.js");
+require("./client/core/vehicles.js"); 
+require("./client/core/modals.js"); 
+require("./client/core/character.js");
+require("./client/core/voice.js");
+require("./client/core/auth.js"); 
+require("./client/core/chat.js"); 
+require("./client/core/misc.js"); 
+require("./client/core/nametags.js"); 
+require("./client/core/hud.js");
+require("./client/core/subtitles.js");
